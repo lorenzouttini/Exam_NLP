@@ -1,5 +1,3 @@
-# Toy-Translator
-
 # Toy Translator from Italian to English
 
 This is a simple toy translator project that translates Italian text to English using machine translation models. The project utilizes neural machine translation and evaluates its performance using various metrics.
